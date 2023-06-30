@@ -1,0 +1,17 @@
+body {
+    background: red;
+    text-align: center;
+}
+img{
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+    
+}
+
+#resultado1{
+    color: aqua;
+}
+#resultado2{
+    color: aqua;
+}
